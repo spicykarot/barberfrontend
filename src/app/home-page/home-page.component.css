@@ -1,0 +1,25 @@
+.wrap {
+    
+    display: block;
+    overflow: auto;
+    margin: 0 auto -80px; /* footer height + space */
+    min-height: 100%;
+    padding: 0 0 80px; /* footer height + space */
+    box-sizing: border-box;
+    background-color: hsl(50, 33%, 25%);
+    
+}
+.font-size {
+    font-size: 16px;
+}
+p {
+    font-size: 16px;
+}
+.bg-color{
+    background-color: #fba927;
+}
+
+/* body{
+    background-color: hsl(50, 33%, 25%);
+    
+} */
